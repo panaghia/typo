@@ -34,33 +34,29 @@ html, body { 
 }
 
 .great-quote {
-
   margin: 0 auto;
   height: 100vh;
   width: 100%;
-
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-
   text-align: left;
-
 }
 
 .great-quote h1 {
-	font-size: 1.5em;
-	font-family: 'grad', serif;
+  font-size: 1.5em;
+  font-family: 'grad', serif;
   max-width: 600px;
   font-weight: 700;
-	text-transform: uppercase;
+  text-transform: uppercase;
   text-align: left;
   align-self: flex-start;
   margin-bottom: 15px;
 }
 
 .great-quote .description span {
-	font-size: 1.3em;
+  font-size: 1.3em;
   font-family: 'utopia-std', serif;
   font-weight: 400;
   line-height: 1.3em;
@@ -73,7 +69,7 @@ html, body { 
   font-family: 'grad', serif;
   font-weight: 400;
   font-style: italic;
-  
+
   line-height: 1.2em;
   margin-top: 20px;
 }
